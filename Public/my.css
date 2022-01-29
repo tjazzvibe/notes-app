@@ -1,0 +1,18 @@
+
+.myheight {
+    height: 500px;
+
+}
+.intro {
+    background-color: yellow;
+  }
+
+.divscroll {
+ 
+    overflow: scroll; 
+    height:700px;
+    border: 1px solid #000000;
+  }
+  .inputwidth {
+    width: 100px
+  }
